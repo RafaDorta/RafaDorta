@@ -8,6 +8,7 @@
 
 
 ![Dortas's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaDorta&show_icons=true&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDorta&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ## Tecnologias que eu uso no meu dia
 
