@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Rafael Dorta🖐️
 
 [![Currículo](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rafadorta.github.io/Curriculo/)
-[![Youtube](https://www.youtube.com/channel/UC8cKcBoV55-5jt5Jal3L3dw)
-[![Instagram](https://www.instagram.com/rafa.dorta/)
-[![Twitch](https://www.twitch.tv/negu1m_)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511977507307)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves-dorta-6642b41b9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafa.dorta/)
+
+
 
 ![Dortas's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaDorta&show_icons=true&theme=transparent)
 
